@@ -1,0 +1,9 @@
+/vendor/
+
+# Composer generated files
+composer.lock
+composer.phar
+
+# Environment files
+.env
+.env.*
